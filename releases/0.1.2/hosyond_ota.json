@@ -2,7 +2,7 @@
   "board": "hosyond_esp32s3",
   "version": "0.1.2",
   "enabled": true,
-  "url": "https://raw.githubusercontent.com/dlarmitage/posiden-ota/7393db37f9730b78d86317847b7e651f9e200a96/releases/0.1.2/hosyond_esp32s3.bin",
-  "sha256": "2bbf77072539c3d322099d4e2e356948a2482b6305487a6be68e6a86840f0e37",
+  "url": "https://raw.githubusercontent.com/dlarmitage/posiden-ota/aa8fb885c557c38ab70f4eccc1b97e1b5ee68ffb/releases/0.1.2/hosyond_esp32s3.bin",
+  "sha256": "f4f24772475c726673bcec1527a9cb3c3d68bac14d63c60e5440db826ac723e4",
   "min_version": "0.1.0"
 }
